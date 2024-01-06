@@ -22,3 +22,19 @@ console.log(booleanIsLoggedIn);
 let someNumber = 22;
 let stringNumber = String(someNumber);
 console.log( typeof stringNumber);
+
+
+// *********************Operations*************//
+
+let value = 3;
+let negValue = -value ;
+console.log(negValue);
+
+let fName = "Ram";
+let lName = "Hari";
+
+console.log(fName + lName);
+
+console.log(1+2+"2");
+console.log(1+"2"+2);
+console.log("1"+2+2);
