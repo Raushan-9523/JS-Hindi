@@ -38,3 +38,7 @@ console.log(fName + lName);
 console.log(1+2+"2");
 console.log(1+"2"+2);
 console.log("1"+2+2);
+
+
+// +++++++++++++++++++++++++++
+// stack(primitive) heap(Non-Primitive)
